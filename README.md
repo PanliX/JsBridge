@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.panlix:jsbridge:1.0.0'
+    compile 'com.github.PanliX:JsBridge:1.0.0'
 }
 ```
 
