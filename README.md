@@ -1,5 +1,9 @@
 # PanliX JsBridge
 
+
+[![](https://jitpack.io/v/PanliX/JsBridge.svg)](https://jitpack.io/#PanliX/JsBridge)
+
+
 ## Usage
 
 ## JitPack.io
